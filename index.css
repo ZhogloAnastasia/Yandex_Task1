@@ -1,0 +1,27 @@
+.page-wrapper {
+	padding: 10px;
+}
+
+.header-container {
+	padding: 0 !important;
+}
+
+.header-container .container {
+	height: 100%;
+}
+
+.container {
+	padding: 7px;
+}
+
+.container .panel {
+	margin-bottom: 0 !important;
+}
+
+.contact-info-section h3 {
+	text-align: right;
+}
+
+.photo {
+	height: auto;
+}
