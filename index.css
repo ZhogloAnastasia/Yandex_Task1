@@ -25,3 +25,13 @@
 .photo {
 	height: auto;
 }
+
+.preview-container {
+	height: 400px;
+}
+
+.preview-container iframe {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
