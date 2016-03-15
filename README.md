@@ -17,4 +17,4 @@
 
 Результат пришлите в виде двух ссылок: на работающий пример и на исходный код на GitHub.
 
-Ссыдка на работающий пример: https://yandextask1.firebaseapp.com/
+Ссылка на работающий пример: https://yandextask1.firebaseapp.com/
